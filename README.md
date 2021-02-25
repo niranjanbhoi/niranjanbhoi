@@ -20,13 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kimm_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kimm_cs" height="30" width="40" /></a>
 <a href="https://dev.to/kimm_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kimm_cs" height="30" width="40" /></a>
 <a href="https://twitter.com/niranjan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niranjan_ai" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="niranjan_ai" height="30" width="40" /></a>
 <a href="https://medium.com/@kimm_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kimm_cs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kimm_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kimm_cs" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kimm_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kimm_cs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
