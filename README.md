@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kimy.csjs@gmail.com**
 
-- 📄 Know about my experiences [htttp/](htttp/)
+- 📄 Know about my experiences [htttp/](https://kimm-cs.github.io/)
 
 - ⚡ Fun fact **IN MY HEART, I AM A GAMER**
 
