@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src=".github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/niranjanbhoi/niranjanbhoi/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
